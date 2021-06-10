@@ -8,5 +8,4 @@ Creators: Karantzalis Konstastinos, Batagianni Labrini*
 Features:
 - API Android Studio Library
 - API 26 pedometer
-- Unity LTS 2020.3.11 or grater
-- 
+- Unity LTS 2020.3.11 or greater
